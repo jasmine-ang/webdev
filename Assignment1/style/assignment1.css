@@ -1,0 +1,58 @@
+.headers {
+    color: rgb(109, 109, 235);
+    text-align: center;
+}
+
+body {
+    background-color: rgb(152, 186, 232);
+}
+
+.test .intro {
+    justify-content: center;
+    text-align: center;
+    border: 1px #ccc solid; 
+    margin-left: 25rem;
+    margin-right: 25rem;
+    line-height: 25px;
+}
+
+.linked .linkedin {
+    justify-content: center;
+    text-align: center;
+    border: 1px #ccc solid;
+    margin-left: 25rem;
+    line-height: 25px; 
+}
+
+.interests {
+    justify-content: center;
+    text-align: center;
+    border: 1px #ccc solid; 
+    margin-left: 25rem;
+    margin-right: 25rem;
+    line-height: 25px;
+}
+
+
+.hobbies {
+    justify-content: center;
+    text-align: center;
+    border: 3px #ccc solid;
+    margin-left: 5rem;
+    margin-right: 5rem; 
+
+}
+
+#important {
+    font-weight: bold;
+}
+
+.link {
+    text-decoration: none;
+    color: rgb(109, 109, 235);
+}
+
+.link:hover {
+    text-decoration: underline; 
+    color:rgb(69, 69, 235)
+}
